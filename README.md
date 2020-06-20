@@ -1,5 +1,7 @@
 # ProjectEulerSol.---
 
+## This repo contains Solutions to ProjectEuler Questions Solved By me in c++/Python Over The last 7 months.
+
 ## As the ProjectEuler policy states to not help people with hints and solutions to questions to problems 101 - 720 (Including The latest One!).
 ### Anyhow I am At Level 6 and I have Solved more than 150 Questions .
 ### I am even The prestigious One Percenter Award Holder ..
